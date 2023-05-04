@@ -52,7 +52,7 @@ social-network-links:
   email: "gslee100@gmail.com"
   # rss: false  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: 
-  github: daattali
+  github: sun912
   # patreon: DeanAttali
   # youtube: c/daattali
 #  medium: yourname
@@ -248,7 +248,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
